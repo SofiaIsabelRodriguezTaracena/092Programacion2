@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tareaprogra2sofia", "Tareaprogra2sofia\Tareaprogra2sofia.vbproj", "{E5B2A180-87AA-461D-87E2-0A74C8B9DD77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B2A180-87AA-461D-87E2-0A74C8B9DD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B2A180-87AA-461D-87E2-0A74C8B9DD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B2A180-87AA-461D-87E2-0A74C8B9DD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B2A180-87AA-461D-87E2-0A74C8B9DD77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F50417-9E70-4EB3-8FB9-CEBB9631F702}
+	EndGlobalSection
+EndGlobal
